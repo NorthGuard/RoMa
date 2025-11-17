@@ -154,10 +154,10 @@ That being said, if diff of results are $>0.5$ there probably is something wrong
 ## BibTeX
 If you find our models useful, please consider citing our paper!
 ```
-@article{edstedt2024roma,
+@inproceedings{edstedt2024roma,
 title={{RoMa: Robust Dense Feature Matching}},
 author={Edstedt, Johan and Sun, Qiyu and Bökman, Georg and Wadenbäck, Mårten and Felsberg, Michael},
-journal={IEEE Conference on Computer Vision and Pattern Recognition},
+booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
 year={2024}
 }
 ```
